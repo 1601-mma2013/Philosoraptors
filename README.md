@@ -100,7 +100,49 @@ a. Context Scenarios
 
 b. Requirements
 
-Describe necessary capabilities of the product
+**Power Switch:**
+- Located on the side of the pen.
+- Used to turn the pen's temperature settings to high or low, as well as 'off'.
+
+**Power Indicator Light:**
+- Shines in three different colors: starts out red (high), turns green (low).
+- Proper temperature on the high setting it turns blue.
+- Extrusion buttons only function when the light is green or blue.
+- Enter sleep mode after five minutes.
+
+**Nozzle:**
+- Tip of the 3Doodler, and the piece that heats up to melt the plastic.
+
+**Power Port:**
+- Hole on the right hand side to plug in included power adapter.
+
+**Plastic Loader:**
+- Hole to insert the 3Doodler plastic strands.
+
+**Air Vent:**
+- Airflow to ensure that the plastic comes out at just the right temperature to solidify as quickly as possible.
+
+**Extrusion Control (fast):**
+- This is the larger of the two buttons on the front face of the 3Doodler. With a gentle push you will feel the button click.
+
+**Extrusion Control (slow):**
+- Extrudes plastic at a very slow and steady rate.
+- Can be used to create very fine and precise detail.
+- Great for drawing up into the air.
+
+**Extrusion Control (continuous):**
+- Double-click to initiate a continuous extrusion.
+- Click once to stop, or click and hold to pause.
+- Hold the button down to pause, it will stop extruding until the button is released.
+- Pressing both buttons simultaneously to reverse the plastic out of the 3Doodler.
+
+**Temperature Control:**
+- Power Switch can be used to adjust the temperature on either heat setting.
+- Turn it 90° to the right to crank up the heat, or 90° to the left to turn it down.
+
+**Control Port:**
+- Three pin port that can be used to attach 3Doodler accessories.
+- Maintenance Cover : the3Doodler.com/videos/#tips
 
 Functional and data needs
 user mental models
