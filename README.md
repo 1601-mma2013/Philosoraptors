@@ -28,6 +28,13 @@ Field Market Research and Objectives :
 
 c. Stakeholder Interviews (internal / external)
 
+Product Vision :
+
+. To create a new teaching method for special educational needs teachers.
+. To create a new learning method for blind children.
+. To increase more interaction between teachers and students.
+. To motivate blind children to learn more. 
+
 |                   **Advantages**                  |                 **Disadvantages**              |
 |:-------------------------------------------------:|:----------------------------------------------:|
 | Enhances creativity                               | Expensive - $1000 per unit (retail price)      |
@@ -45,7 +52,7 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 Users
 
-potential users
+potential users 
 
 (user’s) behaviors
 
