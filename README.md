@@ -24,7 +24,7 @@ relevant technologies
 
 c. Stakeholder Interviews (internal / external)
 
-|    Advantages                                     |   Disadvantages                                |
+|                   **Advantages**                  |                 **Disadvantages**              |
 |---------------------------------------------------|-----------------------------------------------:|
 | Enhances creativity                               | Expensive - $1000 per unit (retail price)      |
 | Versatile possibilities in creations              | Limited ink usage                              |
