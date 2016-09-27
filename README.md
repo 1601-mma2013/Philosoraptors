@@ -15,6 +15,13 @@ To provide a new teaching method for Special Educational Needs Teachers to teach
 
 b. Audit
 
+Competitors and alternatives : 
+. The lix pen : http://lixpen.com/
+
+. Scribbler 3d pen : http://www.scribbler3dpen.com/
+
+. Creopop : https://www.creopop.com/
+
 Target audience: Special Educational Needs Teachers (SENT)
 
 Field Market Research and Objectives :
@@ -51,26 +58,21 @@ Product Vision :
 
 d. User observations
 
-Understand user needs and behavior and describe it. Find various aspect of audience/customer
+Potential User : Special Educational Needs Teacher
 
-Users
+User’s behaviors : They want to find a new way to teach and motivate blind children and also to introduce new technology to them.
 
-potential users 
+User’s attitudes : They are curious to try implimenting new technology into their teachings and to help motivate blind students.
 
-(user’s) behaviors
+User’s aptitudes : They are still new and learning how to use the 3doodler.
 
-(user’s) attitudes
+User’s motivations : To inspire and motivate the blind students to be more engaging with new technology despite their disabilities.
 
-(user’s) aptitudes
+User’s environments : Special Needs School
 
-users’s ability to learn something quickly and do it well
-(user’s) motivations
+User’s tools : The 3Doodler
 
-(user’s) environments
-
-(user’s) tools
-
-(user’s) challenges
+User’s challenges : To learn how to use and properly impliment the 3doodler into their teachings since it is still new.
 
 2. Modeling
 
@@ -78,35 +80,13 @@ a. Personas
 
 Ms. Carol is an unmarried 33 year-old special educational needs teacher. As a Mathematics educator specialising in geometry, she seeks a new teaching environment for her students. She soon realises that there is a flaw in the current teaching method which requires the use of 3D printers, leading to a problem whereby her students would be unable to use the 3D printing software via computer during lessons. In spite of their blindness, with the 3Doodler and proper guide, they are still able to draw by themselves and learn as they go. She hopes to engage her students’ attention by finding a more interactive way of producing a fun, creative and hands-on learning process. As a result, the 3Doodler would empower both interactivity and interaction in class. It would also establish a newfound motivation for their overall attitude and aptitude.
 
-b. Other Models
-
-Represent domain factors beyond individual users and customers 1. Workflows among multiple people
-
-environments
-
-artifacts
-
 II. Synthesis
 
 1. Requirements Definition
 
 a. Context Scenarios
 
-A sample context scenario
 
-The following is the first iteration of a context scenario for a primary persona for a personal digital assistant (PDA) type phone, including both the device and its service. Our persona is Vivien Strong, a real-estate agent in Indianapolis, whose goals are to balance work and home life, close the deal, and make each client feel like he or she is her only client.
-
-Here is Vivien’s context scenario:
-
-While getting ready in the morning, Vivien uses her phone to check her e-mail. Because it has a relatively large screen and quick connection time, it’s more convenient than booting up a computer as she rushes to make her daughter, Alice, a sandwich for school.
-Vivien sees an e-mail from her newest client, Frank, who wants to look at a house this afternoon. The device has his contact info, so she can call him with a simple action right from the e-mail.
-While on the phone with Frank, Vivien switches to speakerphone so she can view the screen while talking. She looks at her appointments to see when she’s free. When she creates a new appointment, the phone automatically makes it an appointment with Frank, because it knows with whom she is talking. She quickly enters the address of the property into the appointment as she finishes her conversation.
-After sending Alice to school, Vivien heads into the real-estate office to gather some papers for another appointment. Her phone has already updated her Outlook appointments, so the rest of the office knows where she’ll be in the afternoon.
-The day goes by quickly, and eventually Vivien is running a bit late. As she heads toward the property she’ll be showing Frank, the phone alerts her that her appointment is in 15 minutes. When she flips open the phone, she sees not only the appointment, but also a list of all documents related to Frank, including e-mails, memos, phone messages, and call logs to Frank’s number. Vivien initiates a call, and the phone automatically connects to Frank because it knows her appointment with him is soon. She lets him know she’ll be there in 20 minutes.
-Vivien knows the address of the property but is unsure exactly where it is. She pulls over and taps the address she put into the appointment. The phone downloads directions along with a thumbnail map showing her location relative to the destination.
-Vivien gets to the property on time and starts showing it to Frank. She hears the phone ring from her purse. Normally while she is in an appointment, the phone automatically goes to voicemail, but Alice has a code she can press to get through. The phone knows it’s Alice calling, so it uses a distinctive ringtone.
-Vivien takes the call. Alice missed the bus and needs to be picked up. Vivien calls her husband to see if he can do it. She gets his voicemail; he must be out of service range. She tells him she’s with a client and asks if he can get Alice. Five minutes later the phone sounds a brief tone. Vivien recognizes it as her husband’s; she sees he’s sent her an instant message: “I’ll get Alice; good luck on the deal!”
-Notice how the scenario remains at a fairly high level, without getting too specific about interfaces or technologies. It’s important to create scenarios that are within the realm of technical possibility, but at this stage the details of reality are unimportant. We want to leave the door open for truly novel solutions, and it’s always possible to scale back; we are ultimately trying to describe an optimal, yet still feasible, experience. Also notice how the activities in the scenario tie back to Vivien’s goals and try to eliminate as many tasks as possible.
 
 b. Requirements
 
