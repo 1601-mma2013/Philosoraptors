@@ -1,7 +1,7 @@
 # Philosoraptors
 
 **Group Members:** Fara Edrina 1132702839
-               Liew Li Sheng 1132702539
+                   Liew Li Sheng 1132702539
 
 **Project Name:** 3Doodler Pen
 
@@ -39,17 +39,6 @@ c. Stakeholder Interviews (internal / external)
 | Refillable ink                                    | Only functions when connected to plug point    |
 | Similar standard as the 3D printer                | Bulky design                                   |
 | Simplified intuitive controls                     |                                                |
-
-external threats
-constraints
-Internal limitations
-viable technologies
-cost
-opportunities
-
-In spite of the obstacles we have this project has strength from a), b), c), ….
-Persisting problem
-users
 
 d. User observations
 
