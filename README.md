@@ -12,15 +12,20 @@ I. Analysis
 
 a. Scope
 
-Define project goals and schedule 1. objectives In which way will your project solve user’s problem?
+To provide a new teaching method for Special Educational Needs Teachers to teach children who suffer from blindness 
 
 b. Audit
 
-Review existing work and product 1. Field (market) research
+Target audience: Special Educational Needs Teachers (SENT)
 
-competitors / alternatives / replacement
+Field Market Research and Objectives :
 
-relevant technologies
+. To establish a stable niche market for the product among target group, by advertising through social media and digital media.
+
+. To promote an "outside the box" teaching method for special educational needs teachers and a learning method for blind children.
+
+. Promote brand awareness among target group 
+
 
 c. Stakeholder Interviews (internal / external)
 
