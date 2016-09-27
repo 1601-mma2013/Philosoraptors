@@ -1,6 +1,6 @@
 # Philosoraptors
 
-**Group Members:** Fara Edrina 1132702839, Liew Li Sheng 1132702539
+**Group Members:** Fara Edrina - 1132702839, Liew Li Sheng - 1132702539
 
 **Project Name:** 3Doodler Pen
 
@@ -11,7 +11,7 @@ I. Analysis
 
 a. Scope
 
-To provide a new teaching method for Special Educational Needs Teachers to teach children who suffer from blindness 
+To provide a new teaching method for special educational needs teachers to teach children who suffer from blindness 
 
 b. Audit
 
@@ -22,7 +22,7 @@ Competitors and alternatives :
 
 . Creopop : https://www.creopop.com/
 
-Target audience: Special Educational Needs Teachers (SENT)
+Target user: Special educational needs teachers
 
 Field Market Research and Objectives :
 
@@ -58,21 +58,21 @@ Product Vision :
 
 d. User observations
 
-Potential User : Special Educational Needs Teacher
+Potential User : Special educational needs teachers
 
 User’s behaviors : They want to find a new way to teach and motivate blind children and also to introduce new technology to them.
 
-User’s attitudes : They are curious to try implimenting new technology into their teachings and to help motivate blind students.
+User’s attitudes : They are curious to try implementing new technology into their teachings and to help motivate blind students.
 
 User’s aptitudes : They are still new and learning how to use the 3doodler.
 
 User’s motivations : To inspire and motivate the blind students to be more engaging with new technology despite their disabilities.
 
-User’s environments : Special Needs School
+User’s environments : Special needs schools
 
 User’s tools : The 3Doodler
 
-User’s challenges : To learn how to use and properly impliment the 3doodler into their teachings since it is still new.
+User’s challenges : To learn how to use and properly implement the 3Doodler into their teachings as it is still new.
 
 2. Modeling
 
@@ -103,6 +103,7 @@ design imperatives
 product vision
 business requirements
 technology
+
 2. Design Framework
 
 a. Elements
