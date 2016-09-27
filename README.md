@@ -76,21 +76,7 @@ users’s ability to learn something quickly and do it well
 
 a. Personas
 
-user and customer archetypes
-
-goals
-
-Patterns in user and customer behaviors
-
-attitudes
-
-aptitudes
-
-environments
-
-tools
-
-challenges
+Ms. Carol is an unmarried 33 year-old special educational needs teacher. As a Mathematics educator specialising in geometry, she seeks a new teaching environment for her students. She soon realises that there is a flaw in the current teaching method which requires the use of 3D printers, leading to a problem whereby her students would be unable to use the 3D printing software via computer during lessons. In spite of their blindness, with the 3Doodler and proper guide, they are still able to draw by themselves and learn as they go. She hopes to engage her students’ attention by finding a more interactive way of producing a fun, creative and hands-on learning process. As a result, the 3Doodler would empower both interactivity and interaction in class. It would also establish a newfound motivation for their overall attitude and aptitude.
 
 b. Other Models
 
