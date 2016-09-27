@@ -1,7 +1,7 @@
 # Philosoraptors
 
 **Group Members:** Fara Edrina 1132702839
-               Liew Li Sheng 1132702539
+                   Liew Li Sheng 1132702539
 
 **Project Name:** 3Doodler Pen
 
@@ -12,28 +12,28 @@ I. Analysis
 
 a. Scope
 
-Define project goals and schedule 1. objectives In which way will your project solve user’s problem?
+To provide a teaching method for special educational needs teachers for blind children.
 
 b. Audit
 
-Review existing work and product 1. Field (market) research
+Target audience: Special Educational Needs Teachers (SENT)
 
-competitors / alternatives / replacement
+Field Market Research and Objectives :
 
-relevant technologies
+. To establish a stable niche market for the product among target group, by advertising through social media and digital media.
+
+. To promote an "outside the box" teaching method for special educational needs teachers and a learning method for blind children.
+
+. Promote brand awareness among target group 
 
 c. Stakeholder Interviews (internal / external)
 
-|                   **Advantages**                  |                 **Disadvantages**              |
-|---------------------------------------------------|-----------------------------------------------:|
-| Enhances creativity                               | Expensive - $1000 per unit (retail price)      |
-| Versatile possibilities in creations              | Limited ink usage                              |
-| Useful for creative industries and enthusiasts    | Hazardous for underage children                |
-| Can be used on no or any surface                  | Environment-polluting in the long run          |
-| Compact and portable                              | Other accessories are sold separately          |
-| Refillable ink                                    | Only functions when connected to plug point    |
-| Similar standard as the 3D printer                | Bulky design                                   |
-| Simplified intuitive controls                     |                                                |
+Understand product vision and constraints 1. product{project} vision
+
+risk
+
+What is the worst result?
+Obstacles
 
 external threats
 constraints
