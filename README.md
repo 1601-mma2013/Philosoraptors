@@ -1,9 +1,9 @@
 # Philosoraptors
 
-Group Members: Fara Edrina 1132702839
+**Group Members:** Fara Edrina 1132702839
                Liew Li Sheng 1132702539
 
-Project Name: 3Doodler Pen
+**Project Name:** 3Doodler Pen
 
 
 I. Analysis
