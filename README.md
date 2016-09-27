@@ -24,12 +24,16 @@ relevant technologies
 
 c. Stakeholder Interviews (internal / external)
 
-Understand product vision and constraints 1. product{project} vision
-
-risk
-
-What is the worst result?
-Obstacles
+|    Advantages                                     |   Disadvantages                                |
+|---------------------------------------------------|-----------------------------------------------:|
+| Enhances creativity                               | Expensive - $1000 per unit (retail price)      |
+| Versatile possibilities in creations              | Limited ink usage                              |
+| Useful for creative industries and enthusiasts    | Hazardous for underage children                |
+| Can be used on no or any surface                  | Environment-polluting in the long run          |
+| Compact and portable                              | Other accessories are sold separately          |
+| Refillable ink                                    | Only functions when connected to plug point    |
+| Similar standard as the 3D printer                | Bulky design                                   |
+| Simplified intuitive controls                     |                                                |
 
 external threats
 constraints
