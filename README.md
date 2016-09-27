@@ -11,7 +11,13 @@ I. Analysis
 
 a. Scope
 
-To provide a new teaching method for special educational needs teachers to teach children who suffer from blindness 
+To provide a new teaching method for special educational needs teachers to teach children who suffer from blindness.
+
+References :
+
+1) http://www.incobs.de/articles/items/3d.html
+
+2) http://www.3ders.org/articles/20160605-3d-printed-teaching-aids-enhance-education-for-visually-impaired-students.html
 
 b. Audit
 
@@ -43,7 +49,7 @@ Product Vision :
 
 . To increase more interaction between teachers and students.
 
-. To motivate blind children to learn more. 
+. To motivate blind children to learn more.
 
 |                   **Advantages**                  |                 **Disadvantages**              |
 |:-------------------------------------------------:|:----------------------------------------------:|
