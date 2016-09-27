@@ -85,6 +85,7 @@ II. Synthesis
 1. Requirements Definition
 
 a. Context Scenarios
+
 1 An hour before Carol’s geometry class in a Special Needs School, she would practice using her 3Doodler that she bought online from their official website for a better handling of the 3D pen so that she is able to use it to teach her students in class which the students are blind and visually impaired. 
 
 2  While her students are in class, Carol demonstrates various geometrical shapes like spheres, cones, pyramids and rectangles by constructing three-dimensional figures with a ruler to measure the correct angle of the shapes. She then continues to explain the shape, size as well as relative position of the polygons.
