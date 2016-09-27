@@ -31,8 +31,11 @@ c. Stakeholder Interviews (internal / external)
 Product Vision :
 
 . To create a new teaching method for special educational needs teachers.
+
 . To create a new learning method for blind children.
+
 . To increase more interaction between teachers and students.
+
 . To motivate blind children to learn more. 
 
 |                   **Advantages**                  |                 **Disadvantages**              |
