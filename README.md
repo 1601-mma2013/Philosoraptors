@@ -86,12 +86,11 @@ II. Synthesis
 
 a. Context Scenarios
 
-1 An hour before Carol’s geometry class in a Special Needs School, she would practice using her 3Doodler that she bought online from their official website for a better handling of the 3D pen so that she is able to use it to teach her students in class which the students are blind and visually impaired. 
+1) An hour before Carol’s geometry class at her workplace, a special needs school, she would practice using her 3Doodler that she bought online from their official website for a better handling of the 3D pen so that she is able to use it to teach her students in class whereby they are blind and visually impaired.
 
-2  While her students are in class, Carol demonstrates various geometrical shapes like spheres, cones, pyramids and rectangles by constructing three-dimensional figures with a ruler to measure the correct angle of the shapes. She then continues to explain the shape, size as well as relative position of the polygons.
+2)  In the classroom, Carol demonstrates various geometrical shapes like spheres, cones, pyramids and rectangles by constructing three-dimensional figures with a ruler to get the correct shape measurements. She then continues to explain the shape, size as well as relative position of the polygons.
 
-3 She also gives a hands-on practice to students to use the 3Doodler to construct geometrical shapes by themselves in order to have a better understanding of geometrical shapes. At the same time, she also guides the students on how to use the pen correctly one by one. This also creates a new method of human-computer interaction in the classroom. 
-
+3) She also gives a hands-on practice to students to use the 3Doodler to construct geometrical shapes by themselves in order to have a better understanding of geometry. At the same time, she also guides her students how to use the pen correctly one by one. This also creates a new method of human-technology interaction in the classroom.
 
 b. Requirements
 
