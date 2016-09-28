@@ -163,9 +163,12 @@ functions
 mechanisms
 actions
 domain object models
+
 b. Framework
 
 Design overall structure of user experience
+
+<iframe width="480" height="360" src="http://s1320.photobucket.com/user/faraedrina/embed/slideshow/Interaction%20Design%20-%203Doodler"></iframe>
 
 Sketch
 if your project is a design product
