@@ -168,7 +168,7 @@ b. Framework
 
 Design overall structure of user experience
 
-http://s1320.photobucket.com/user/faraedrina/Interaction%20Design%20-%203Doodler/story
+http://s1320.photobucket.com/user/faraedrina/slideshow/Interaction%20Design%20-%203Doodler
 
 Sketch
 if your project is a design product
