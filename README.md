@@ -168,7 +168,7 @@ b. Framework
 
 Design overall structure of user experience
 
-<iframe width="480" height="360" src="http://s1320.photobucket.com/user/faraedrina/embed/slideshow/Interaction%20Design%20-%203Doodler"></iframe>
+http://s1320.photobucket.com/user/faraedrina/Interaction%20Design%20-%203Doodler/story
 
 Sketch
 if your project is a design product
